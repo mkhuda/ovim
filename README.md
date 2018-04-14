@@ -8,10 +8,11 @@ Bash alias for creating autocomplete command in UNIX terminal to open VIM on som
 $ git clone https://github.com/mkhuda/ovim.git
 `
 - Copy the content of autocomplete.bash to your `.bashrc`
-`
+```bash
 $ cd ovim
+
 $ cat autocomplete.bash >> ~/.bashrc
-`
+```
 - Edit `.bashrc` to adjust the ovim command
 
 ```bash
