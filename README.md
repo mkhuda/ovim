@@ -4,9 +4,9 @@ Bash alias for creating autocomplete command in UNIX terminal to open VIM on som
 
 ## Installing
 - Clone this repo
-`
+```bash
 $ git clone https://github.com/mkhuda/ovim.git
-`
+```
 - Copy the content of autocomplete.bash to your `.bashrc`
 ```bash
 $ cd ovim
