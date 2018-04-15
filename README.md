@@ -45,7 +45,7 @@ ovim() {
 
  ## Usage
 
-Wherever you are in somewhere directory, you can type `ovim<space><tab><tab>` or  `ovim<space><word><tab>` to see the list of your projects or folders setted up from dir.
+Wherever you are in somewhere directory, you can type `ovim<space><tab><tab>` or  `ovim<space><prefix:word><tab>` to see the list of your projects or folders setted up from dir.
 
 ## Todo
 - Shell auto installation (0)
